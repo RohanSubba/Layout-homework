@@ -1,5 +1,9 @@
 ## HomeWork
 
+
+<img src="homework.gif" width="250" height="400">
+
+
 <b>home</b>
 <br />
 <img src="home.png" width="250" height="400">
